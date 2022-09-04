@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ProyectoAPP</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="todo">TODO</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="nombre">Nombre</string>
+    <string name="telefono">Teléfono</string>
+    <string name="direccion">Dirección</string>
+    <string name="apellido">Apellido</string>
+    <string name="todos">TODO</string>
+    <string name="radiobutton">RadioButton</string>
+    <string name="mario_odissey">Mario Odissey</string>
+</resources>
